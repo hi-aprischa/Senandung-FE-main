@@ -1,0 +1,26 @@
+.navbar-desktop {
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    background: #d2bf7a;
+    box-shadow: 0px 4px 4px #806f31(0, 0, 0, 0.25);
+    border-radius: 0px;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.navbar-brand img {
+    position: flex;
+    right: 250px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    margin-left: 20px;
+}
+
+
+
