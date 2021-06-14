@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import '../assets/css/navbar.css'
 import '../assets/css/style.css'
 import Navbar from '../component/navbar'
-import asset from '../assets/img/samsung.png'
 import { Link } from 'react-router-dom'
 import axios from "axios"
 import { createBootstrapComponent } from 'react-bootstrap/esm/ThemeProvider'
